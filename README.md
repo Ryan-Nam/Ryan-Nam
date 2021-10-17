@@ -1,7 +1,7 @@
 
 ### About Me
 
-:computer: Junior Java Developer
+:computer: Graduate Software Engineer
 
 
 
