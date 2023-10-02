@@ -23,9 +23,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-I m using Java, Spring, MySQL, JavaScript, Amazon AWS, React
+I'm using HTML & CSS, JavaScript, React, Amazon AWS
 
-Currently I am working on my own Spring project while looking for a suitable job.
 
 
 
